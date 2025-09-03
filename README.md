@@ -2,7 +2,7 @@ An intelligent music player that generates personalized playlists based on your 
 
 Note: An internet connection is required to generate the playlist and open the desired songs.
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8d3ed77e-ead8-43cf-8681-83c5d8462853" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 233237" src="https://github.com/user-attachments/assets/58ea42ce-5db6-4d53-8a25-39d95f4d0f61" />
 
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 233349" src="https://github.com/user-attachments/assets/dbe2508c-d8ee-4b18-87ef-ba9ee404a596" />
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bf9d8963-4b5d-4b85-86c0-8f1454f4e402" />
